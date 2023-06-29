@@ -1,0 +1,3 @@
+Lo que hice fue, modificar el archivo "enproceso", al no poder hacer commit y push para guardar y seguir
+por la urgencia que requiere la otra tarea, realice un git stash para que quede guardado temporalmente los cambios
+y cambiarme a la master branch para poder borrar el archivo status.js
