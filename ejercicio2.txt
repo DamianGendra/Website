@@ -1,0 +1,2 @@
+Lo que realizamos aca es un merge de la rama front-react con la master
+Asi todo lo creado en front-react se ve reflejado en la rama principal del codigo
