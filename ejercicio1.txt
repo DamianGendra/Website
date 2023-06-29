@@ -1,0 +1,3 @@
+En este caso, para poder guardar el proceso rapidamente sin hacer un commit y luego continuar trabajando
+se realizo un Git Stash. Luego se paso a la rama master se borro el archivo status.js y se volvio a la rama
+custom-navbar para poder seguir trabajando en el codigo anterior.
